@@ -1,4 +1,4 @@
-import profileImgLarge from '~/assets/profile-large.jpg';
+import profileImgLarge from '~/assets/profile_large.jpeg';
 import profileImgPlaceholder from '~/assets/profile-placeholder.jpg';
 import profileImg from '~/assets/profile.jpg';
 import { Button } from '~/components/button';
@@ -21,17 +21,16 @@ const ProfileText = ({ visible, titleId }) => (
       <DecoderText text="Hi there" start={visible} delay={500} />
     </Heading>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      I’m Hamish, currently I live in Sydney working as a senior product designer at{' '}
-      <Link href="https://www.qwilr.com">Qwilr</Link>. My projects include UX design, UI
-      animations, and icon illustration. Being comfortable with code allows me to rapidly
-      prototype and validate experiences. If you’re interested in the tools and software I
-      use check out my <Link href="/uses">uses page</Link>.
-    </Text>
-    <Text className={styles.description} data-visible={visible} size="l" as="p">
-      In my spare time I like to practice Brazilian Jiu Jitsu, play video games, and{' '}
-      <Link href="/projects/volkihar-knight">make mods</Link>. I’m always down for hearing
-      about new projects, so feel free to drop me a line.
-    </Text>
+  Hey everyone, I am Gudhal Chauhan, currently living in India and working as a Rust developer while still pursuing my studies. 
+  I enjoy building backend systems, exploring systems programming, and constantly learning more about Rust. 
+  If you’re interested in the tools and software I use, check out my <Link href="/uses">uses page</Link>.
+</Text>
+
+<Text className={styles.description} data-visible={visible} size="l" as="p">
+  In my spare time I like to watch anime and read novels, especially the works of Dan Brown. 
+  I’m always open to hearing about new projects or ideas, so feel free to drop me a line.
+</Text>
+
   </Fragment>
 );
 

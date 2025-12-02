@@ -3,37 +3,68 @@ __  __  __
  \ \/\ \
   \/  \/
 
-The humans.txt file explains the team, technology,
-and graphic assets behind this site humanstxt.org.
+The humans.txt file explains the creator, technology,
+and design philosophy behind this site.
 
-_______________________________________________________________________________
+/* -------------------------------------------------------------------------- */
+/*                                CREATOR | 作者                              */
+/* -------------------------------------------------------------------------- */
 
-DESIGNER | デザイナー
+Gudhal Chauhan  
+Developer • Designer • Systems Enthusiast  
+Hand-crafted with passion, precision, and a love for clean architecture.
 
-Hamish Williams
-Hand crafted design & web development
+Portfolio: https://your-website.com
+GitHub: github.com/draken-1974
+LinkedIn: linkedin.com/in/gudhal-chauhan
 
-Design tools:
-Figma
-Photoshop
-Blender
+/* -------------------------------------------------------------------------- */
+/*                          TECHNOLOGY STACK | 技術                           */
+/* -------------------------------------------------------------------------- */
 
-twitter.com/hamishmw
-github.com/hamishmw
+Frontend:  
+- React  
+- Remix  
+- GSAP  
+- Three.js  
+- Framer Motion  
 
-_______________________________________________________________________________
+Backend:  
+- Rust  
+- Actix-Web  
+- SQLx  
+- PostgreSQL  
 
-TECHNOLOGY | テクノロジー
+Tools & Workflow:  
+- Git  
+- Linux  
+- VS Code / Neovim  
+- Figma  
 
-React
-Remix
-Three.js
-Framer Motion
+/* -------------------------------------------------------------------------- */
+/*                               DESIGN | デザイン                             */
+/* -------------------------------------------------------------------------- */
 
-_______________________________________________________________________________
+Minimal, cinematic, Apple-inspired UI.  
+Fluid interactions, smooth transitions, and carefully tuned motion.
 
-FONTS | フォント
+Design Philosophy:  
+- Simplicity  
+- Precision  
+- Consistency  
+- High-contrast dark/light themes  
 
-Gotham
-IPA Gothic Regular
-Hiragino Kaku Gothic W8
+/* -------------------------------------------------------------------------- */
+/*                                  FONTS | フォント                          */
+/* -------------------------------------------------------------------------- */
+
+Sora  
+Inter  
+JetBrains Mono (code)
+
+/* -------------------------------------------------------------------------- */
+/*                            MADE WITH ♥ IN INDIA 🟢                          */
+/* -------------------------------------------------------------------------- */
+
+Crafted by Gudhal Chauhan  
+“Build. Break. Learn. Improve.”
