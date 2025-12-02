@@ -1,10 +1,3 @@
 name = "portfolio-final"
-main = "functions/[[path]].js"
+pages_build_output_dir = "build/client"
 compatibility_date = "2024-01-01"
-
-# This is where Remix builds to
-pages_build_output_dir = "./build/client"
-
-kv_namespaces = [
-  { id = "MY_KV", binding = "MY_KV" }
-]
