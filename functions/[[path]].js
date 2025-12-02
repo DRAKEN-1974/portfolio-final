@@ -1,7 +1,5 @@
-import { createPagesFunctionHandler } from "@remix-run/cloudflare-pages";
-import * as build from "../build/server";
+import { createPagesFunctionHandler } from '@remix-run/cloudflare-pages';
 
-export const onRequest = createPagesFunctionHandler({
-  build,
-  mode: process.env.NODE_ENV
-});
+import * as build from '../build/server';
+
+export const onRequest = createPagesFunctionHandler({ build });
